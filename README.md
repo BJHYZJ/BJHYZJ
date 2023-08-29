@@ -1,4 +1,4 @@
-### Hi there, I am Zhijie Yan (鄢智杰) 👋.
+### Hi there, I am Zhijie Yan (Banner) 👋.
 
 - 👨🏼‍💻 I am a **first-year graduate student** at Beihang University (BUAA)
 - 👯 I’m currently working as a research intern at @AIR-DISCOVER.
